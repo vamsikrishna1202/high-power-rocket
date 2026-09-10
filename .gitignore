@@ -1,0 +1,12 @@
+# Large source media and original engineering files are intentionally outside this portfolio repository.
+*.mp4
+*.mov
+*.ork
+*.sldprt
+*.sldasm
+*.step
+*.stp
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
